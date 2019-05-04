@@ -982,7 +982,25 @@ var al = {
     "Hatchet"
   ],
   targetList: ["Janus", "Nolan Cassidy"],
-  contractTargets: ["Janus", "Nolan Cassidy"],
+  contractTargets: [
+    "Janus",
+    "Nolan Cassidy",
+    "BBQ King Richard Wilson",
+    "Bug-loving exterminator Jose Alvarez",
+    "Mailman Dale Anderson",
+    "Charles Blake III",
+    "Politician's assistant Aiden Kelly",
+    "James Batty",
+    "Real estate broker Samir Chandra",
+    "Muffin vendor Herbert West",
+    "Nurse Nelson Lafayette",
+    "Helen West",
+    "Gunther Mueller",
+    "Diary-reading guard Kennith Hemmer",
+    "Explosive gardener Gayle Pooley",
+    "Roadworks guard Fermin Delvecchio",
+    "Microfilm enthusiast Susan Wilson"
+  ],
   entry: [
     "Whittleton Creek",
     "Construction Area",
