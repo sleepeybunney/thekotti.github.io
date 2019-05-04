@@ -216,7 +216,19 @@ var wot = {
     "Private investigator Sal Falcone",
     "Scientist with dongle Viana Buccho",
     "Undertaker Fabio Pavione",
-    "Red plumber Mario Saltatore"
+    "Red plumber Mario Saltatore",
+    "Gelateria dishwasher Paolo Fellegara",
+    "Cyclist Orlando Zito",
+    "Craig 'Rocco' McVeigh",
+    "Rocco's sister Claudia Di Meo",
+    "Butcher Araldo Labate",
+    "Sanguine cleaner Emilio Milani",
+    "Limo cleaner Ugolino Catena",
+    "Purple pants graveyard lady Paola Maffucci",
+    "Priest Padre Francesco",
+    "Morgue owner Fabio Pavione",
+    "Hairdresser Nazareno Dimario",
+    "Street performer Umberto Megazzini"
   ],
   entry: [
     "Main Square",
