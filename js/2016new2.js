@@ -106,7 +106,13 @@ var showstopper = {
     "Reporter Liza McKenzie",
     "Dalia's secretary Hailey Brennan",
     "Viktor's bodyguard Kurt Donovan",
-    "Dalia's assistant Sophus Fatale"
+    "Dalia's assistant Sophus Fatale",
+    "Scarf-wearing auction guest Andrea Martinez",
+    "Auction bartender Eric Hébert",
+    "Auctioneer Nicolas Frank",
+    "Stylist who looks fine David Boyer",
+    "Frilly white dress model Madison Lang",
+    "Beardless chef Auguste Marcheterre"
   ],
   entry: [
     "Red Carpet",
