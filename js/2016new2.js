@@ -378,7 +378,19 @@ var agc = {
     "Consulate intern Hektor Lindberg",
     "Fortune teller Zaki Diab",
     "Protester Shuaib Aly",
-    "Woman on lamp store roof Hilda Berg"
+    "Woman on lamp store roof Hilda Berg",
+    "Sleeping soldier Shaahid Safar",
+    "Prisoner Sayid Laham",
+    "Officer guarding Zaydan's office Ubayy Saud Mifsud",
+    "Drill instructor Masruq Khalid Almasi",
+    "TV reporter Pamela Kingsley",
+    "TV producer Tyler Clark",
+    "Snail meat vendor (no bones) Nada Ozer",
+    "Snail soup vendor Misbaah Popal",
+    "Sleeping waiter Anwaar Aly",
+    "Lamp lady Sahar Anwaar",
+    "Chair builder Håkan Almer",
+    "Consul of Sweden Erik Olander"
   ],
   entry: [
     "Bazaar Entrance",
