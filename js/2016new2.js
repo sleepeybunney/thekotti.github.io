@@ -605,7 +605,21 @@ var si = {
     "Helicopter pilot Nails",
     "Nurse in the operating room Kimiho Ookawa",
     "The curator Katashi Ito",
-    "Smoking handyman Tomiyuki Fujihara"
+    "Smoking handyman Tomiyuki Fujihara",
+    "Observation room bodyguard Souji Yamamura",
+    "Observation room lady Masumi Okamoto",
+    "Pushups bodyguard Akihide Nishihara",
+    "Security room guard Hideyo Shibata",
+    "Sushi chef Kouyuu Okuta",
+    "Kitchen chef Ikkei Tsutsui",
+    "Restaurant bathroom guard Hidetoshi Higa",
+    "Resort staff man in break room Masayoshi Sakakihara",
+    "Aquarium handyman Azuma Murayama",
+    "Handyman digging outside the garage Yoshifumi Yagawa",
+    "Laundry room resort staff Tomochika Koizumi",
+    "Bodyguard on Yuki's balcony Salvio Parra Rojo",
+    "Sauna man Justin Speer",
+    "Meditating spa man Heita Ozawa"
   ],
   entry: [
     "Tobias Rieper's Suite",
