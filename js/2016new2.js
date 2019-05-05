@@ -488,8 +488,17 @@ var c27 = {
     "Hotel manager Mrs. Mookjai",
     "Chef Tharn Srisai",
     "Man passed out in Jackie's room Julian",
-    "Stalker Benjamin Bertam",
-    "Ken's bodyguard Otis Kaplan"
+    "Stalker Benjamin Bertram",
+    "Ken's bodyguard Otis Kaplan",
+    "Tuk-tuk gardener Suchin Thanom",
+    "Mrs. Mookjai's assistant Bob",
+    "Chatty basement maid Supaporn Gason",
+    "Security hut captain Ratsami Panichwit",
+    "Outside exterminator Maelng",
+    "Inside exterminator Tarrin",
+    "Crew man with Dexy's note Neil Burgess",
+    "Passed-out crew man Bob 'Altmuligman' Ganoosh",
+    "Crew enforcer at the top of the stairs Manny Boscovitch"
   ],
   entry: [
     "Riverside Landing",
