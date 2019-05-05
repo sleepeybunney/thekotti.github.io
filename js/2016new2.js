@@ -542,7 +542,18 @@ var ff = {
     "Militia technician Milton Geiger",
     "Sleeping militia soldier Mario Thompson",
     "Militia spec ops in the barn Liam Butler",
-    "Drill instructor Albert Knarr"
+    "Drill instructor Albert Knarr",
+    "Gaming hacker Luke Poole",
+    "Gaming soldier Alexander Patrick Strandlod",
+    "Shiny jacket hacker Joshua Trumbo",
+    "Basement guard Reggie Duncan",
+    "Fake Interpol agent Matthew Robertson",
+    "Water tower guard Aaron Collier",
+    "Tar pit guard Larry Bauman",
+    "Chemistry shed guard Clinton Webster",
+    "Shooting range shooter Lindsey Sims",
+    "Slow mechanic Raymond Kane",
+    "Militia spec ops upstairs in the barn Roy Marcum"
   ],
   entry: [
     "Undercover in the Garage",
